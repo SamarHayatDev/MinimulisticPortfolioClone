@@ -2,7 +2,7 @@
 import React from "react";
 
 import { AnimatePresence, motion } from "framer-motion";
-import { CanvasRevealEffect } from "./ui/CanvasREvealEffect";
+import { CanvasRevealEffect } from "./ui/CanvasRevealEffect";
 export function Approach() {
   return (
     <section className=" w-full py-20 ">
