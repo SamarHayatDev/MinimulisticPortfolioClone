@@ -37,7 +37,7 @@ const Footer = () => {
               <Link target="_blank" href={profile.url}>
                 <img
                   src={profile.img}
-                  alt={profile.id}
+                  alt={profile.img}
                   width={20}
                   height={20}
                 />
