@@ -205,13 +205,18 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    url: "https://github.com/SamarHayatOfficial/",
   },
   {
     id: 2,
     img: "/twit.svg",
+
+    url: "https://github.com/SamarHayatOfficial/",
   },
   {
     id: 3,
     img: "/link.svg",
+
+    url: "https://github.com/SamarHayatOfficial/",
   },
 ];
