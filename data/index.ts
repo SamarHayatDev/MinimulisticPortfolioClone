@@ -205,7 +205,7 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    url: "https://github.com/SamarHayatOfficial/",
+    url: "https://github.com/SamarHayatdev/",
   },
   {
     id: 2,
@@ -217,6 +217,6 @@ export const socialMedia = [
     id: 3,
     img: "/link.svg",
 
-    url: "https://www.linkedin.com/in/samarhayatofficial/",
+    url: "https://www.linkedin.com/in/samarhayatdev/",
   },
 ];
